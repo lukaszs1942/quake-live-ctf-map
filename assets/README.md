@@ -1,0 +1,1 @@
+This directory contains textures and 3D models used in the maps.
